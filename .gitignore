@@ -1,0 +1,10 @@
+bin/
+obj/
+*.user
+*.suo
+.vs/
+TestResults/
+*.env
+values.secret.yaml
+.DS_Store
+Thumbs.db

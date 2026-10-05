@@ -1,0 +1,6 @@
+@Restatify.Tensegrity.Cloud_HostAddress = http://localhost:5146
+
+GET {{Restatify.Tensegrity.Cloud_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

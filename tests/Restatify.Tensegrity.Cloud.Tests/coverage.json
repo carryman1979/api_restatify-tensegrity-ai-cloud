@@ -1,0 +1,512 @@
+{
+  "Restatify.Tensegrity.Cloud.Core.dll": {
+    "D:\\laragon\\www\\restatify.tech\\api_restatify-tensegrity-ai-cloud\\src\\Restatify.Tensegrity.Cloud.Core\\ConfidentialityLevelMapper.cs": {
+      "Restatify.Tensegrity.Cloud.ConfidentialityLevelMapper": {
+        "System.String Restatify.Tensegrity.Cloud.ConfidentialityLevelMapper::ToHiveLevel(System.String)": {
+          "Lines": {
+            "6": 6,
+            "7": 6,
+            "8": 6,
+            "9": 2,
+            "10": 1,
+            "11": 1,
+            "12": 1,
+            "13": 1,
+            "14": 6,
+            "15": 6
+          },
+          "Branches": [
+            {
+              "Line": 7,
+              "Offset": 28,
+              "EndOffset": 30,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 4
+            },
+            {
+              "Line": 7,
+              "Offset": 41,
+              "EndOffset": 43,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 3
+            },
+            {
+              "Line": 7,
+              "Offset": 54,
+              "EndOffset": 56,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 2
+            },
+            {
+              "Line": 7,
+              "Offset": 28,
+              "EndOffset": 71,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 7,
+              "Offset": 41,
+              "EndOffset": 79,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 7,
+              "Offset": 54,
+              "EndOffset": 87,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            },
+            {
+              "Line": 7,
+              "Offset": 67,
+              "EndOffset": 95,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 1
+            },
+            {
+              "Line": 7,
+              "Offset": 67,
+              "EndOffset": 103,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "D:\\laragon\\www\\restatify.tech\\api_restatify-tensegrity-ai-cloud\\src\\Restatify.Tensegrity.Cloud.Core\\GatewayRouter.cs": {
+      "Restatify.Tensegrity.Cloud.GatewayRouter/<>c": {
+        "System.Boolean Restatify.Tensegrity.Cloud.GatewayRouter/<>c::<HandleAsync>b__0_0(System.String)": {
+          "Lines": {
+            "31": 13
+          },
+          "Branches": []
+        },
+        "System.String Restatify.Tensegrity.Cloud.GatewayRouter/<>c::<HandleAsync>b__0_1(System.String)": {
+          "Lines": {
+            "32": 12
+          },
+          "Branches": []
+        }
+      },
+      "Restatify.Tensegrity.Cloud.GatewayRouter/<HandleAsync>d__0": {
+        "System.Void Restatify.Tensegrity.Cloud.GatewayRouter/<HandleAsync>d__0::MoveNext()": {
+          "Lines": {
+            "11": 17,
+            "12": 17,
+            "13": 1,
+            "14": 1,
+            "17": 16,
+            "18": 6,
+            "19": 6,
+            "20": 6,
+            "21": 6,
+            "22": 6,
+            "23": 6,
+            "24": 6,
+            "25": 6,
+            "28": 10,
+            "29": 10,
+            "30": 10,
+            "33": 10,
+            "34": 10,
+            "35": 10,
+            "36": 10,
+            "38": 10,
+            "39": 3,
+            "40": 3,
+            "41": 3,
+            "42": 3,
+            "43": 3,
+            "44": 3,
+            "45": 3,
+            "46": 3,
+            "49": 7,
+            "50": 7,
+            "51": 7,
+            "52": 1,
+            "53": 2,
+            "54": 3,
+            "55": 1,
+            "56": 7,
+            "58": 7,
+            "60": 7,
+            "61": 7,
+            "62": 7,
+            "63": 7,
+            "64": 7,
+            "65": 7,
+            "66": 7,
+            "67": 7,
+            "68": 7,
+            "69": 7,
+            "70": 7,
+            "71": 17
+          },
+          "Branches": [
+            {
+              "Line": 12,
+              "Offset": 29,
+              "EndOffset": 31,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 12,
+              "Offset": 29,
+              "EndOffset": 53,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 16
+            },
+            {
+              "Line": 17,
+              "Offset": 74,
+              "EndOffset": 76,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 6
+            },
+            {
+              "Line": 17,
+              "Offset": 74,
+              "EndOffset": 121,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 10
+            },
+            {
+              "Line": 30,
+              "Offset": 179,
+              "EndOffset": 181,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 2
+            },
+            {
+              "Line": 30,
+              "Offset": 179,
+              "EndOffset": 185,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 8
+            },
+            {
+              "Line": 30,
+              "Offset": 273,
+              "EndOffset": 275,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 2
+            },
+            {
+              "Line": 30,
+              "Offset": 273,
+              "EndOffset": 281,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 10
+            },
+            {
+              "Line": 38,
+              "Offset": 355,
+              "EndOffset": 357,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 3
+            },
+            {
+              "Line": 38,
+              "Offset": 355,
+              "EndOffset": 397,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 7
+            },
+            {
+              "Line": 50,
+              "Offset": 423,
+              "EndOffset": 425,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 3
+            },
+            {
+              "Line": 50,
+              "Offset": 423,
+              "EndOffset": 435,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 4
+            },
+            {
+              "Line": 50,
+              "Offset": 431,
+              "EndOffset": 445,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 1
+            },
+            {
+              "Line": 50,
+              "Offset": 431,
+              "EndOffset": 454,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 2
+            },
+            {
+              "Line": 50,
+              "Offset": 441,
+              "EndOffset": 463,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 3
+            },
+            {
+              "Line": 50,
+              "Offset": 441,
+              "EndOffset": 472,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 1
+            },
+            {
+              "Line": 60,
+              "Offset": 676,
+              "EndOffset": 678,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 0
+            },
+            {
+              "Line": 60,
+              "Offset": 676,
+              "EndOffset": 682,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 7
+            }
+          ]
+        }
+      }
+    },
+    "D:\\laragon\\www\\restatify.tech\\api_restatify-tensegrity-ai-cloud\\src\\Restatify.Tensegrity.Cloud.Core\\GenerateRequest.cs": {
+      "Restatify.Tensegrity.Cloud.GenerateRequest": {
+        "System.String Restatify.Tensegrity.Cloud.GenerateRequest::get_RequestId()": {
+          "Lines": {
+            "5": 16
+          },
+          "Branches": []
+        },
+        "System.String Restatify.Tensegrity.Cloud.GenerateRequest::get_ConfidentialityLevel()": {
+          "Lines": {
+            "6": 32
+          },
+          "Branches": []
+        },
+        "System.String Restatify.Tensegrity.Cloud.GenerateRequest::get_Prompt()": {
+          "Lines": {
+            "7": 7
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IReadOnlyList`1<System.String> Restatify.Tensegrity.Cloud.GenerateRequest::get_ExpertSlotIds()": {
+          "Lines": {
+            "8": 33
+          },
+          "Branches": []
+        },
+        "System.Void Restatify.Tensegrity.Cloud.GenerateRequest::.ctor(System.String,System.String,System.String,System.Collections.Generic.IReadOnlyList`1<System.String>)": {
+          "Lines": {
+            "4": 16
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\laragon\\www\\restatify.tech\\api_restatify-tensegrity-ai-cloud\\src\\Restatify.Tensegrity.Cloud.Core\\HiveClient.cs": {
+      "Restatify.Tensegrity.Cloud.HiveClient": {
+        "System.Void Restatify.Tensegrity.Cloud.HiveClient::.cctor()": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\laragon\\www\\restatify.tech\\api_restatify-tensegrity-ai-cloud\\src\\Restatify.Tensegrity.Cloud.Core\\IHiveClient.cs": {
+      "Restatify.Tensegrity.Cloud.HiveSubmitResult": {
+        "System.Boolean Restatify.Tensegrity.Cloud.HiveSubmitResult::get_Accepted()": {
+          "Lines": {
+            "8": 21
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\laragon\\www\\restatify.tech\\api_restatify-tensegrity-ai-cloud\\src\\Restatify.Tensegrity.Cloud.Core\\PolicyGuard.cs": {
+      "Restatify.Tensegrity.Cloud.PolicyGuard": {
+        "System.Boolean Restatify.Tensegrity.Cloud.PolicyGuard::IsRequestAllowed(System.String)": {
+          "Lines": {
+            "14": 22,
+            "15": 22,
+            "16": 2,
+            "17": 2,
+            "20": 20,
+            "22": 20,
+            "23": 20,
+            "24": 22
+          },
+          "Branches": [
+            {
+              "Line": 15,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 15,
+              "Offset": 9,
+              "EndOffset": 16,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 20
+            },
+            {
+              "Line": 22,
+              "Offset": 35,
+              "EndOffset": 37,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 12
+            },
+            {
+              "Line": 22,
+              "Offset": 35,
+              "EndOffset": 51,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 8
+            }
+          ]
+        }
+      }
+    },
+    "D:\\laragon\\www\\restatify.tech\\api_restatify-tensegrity-ai-cloud\\src\\Restatify.Tensegrity.Cloud.Core\\SlotRegistry.cs": {
+      "Restatify.Tensegrity.Cloud.SlotRegistry": {
+        "System.Collections.Generic.IReadOnlyList`1<System.String> Restatify.Tensegrity.Cloud.SlotRegistry::Resolve(System.Collections.Generic.IEnumerable`1<System.String>)": {
+          "Lines": {
+            "14": 17,
+            "15": 17,
+            "16": 0,
+            "17": 0,
+            "20": 17,
+            "21": 20,
+            "22": 19,
+            "23": 19,
+            "24": 17,
+            "25": 12,
+            "26": 17,
+            "27": 17
+          },
+          "Branches": [
+            {
+              "Line": 15,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 15,
+              "Offset": 7,
+              "EndOffset": 21,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 17
+            },
+            {
+              "Line": 23,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 16
+            },
+            {
+              "Line": 23,
+              "Offset": 13,
+              "EndOffset": 23,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            }
+          ]
+        },
+        "System.Boolean Restatify.Tensegrity.Cloud.SlotRegistry::IsKnownActiveSlot(System.String)": {
+          "Lines": {
+            "30": 0,
+            "31": 0,
+            "32": 0
+          },
+          "Branches": [
+            {
+              "Line": 31,
+              "Offset": 14,
+              "EndOffset": 16,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 14,
+              "EndOffset": 24,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void Restatify.Tensegrity.Cloud.SlotRegistry::.cctor()": {
+          "Lines": {
+            "5": 1,
+            "6": 1,
+            "7": 1,
+            "8": 1,
+            "9": 1,
+            "10": 1,
+            "11": 1
+          },
+          "Branches": []
+        }
+      },
+      "Restatify.Tensegrity.Cloud.SlotRegistry/SlotInfo": {
+        "System.String Restatify.Tensegrity.Cloud.SlotRegistry/SlotInfo::get_SlotId()": {
+          "Lines": {
+            "34": 20
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
