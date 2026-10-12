@@ -6,7 +6,11 @@ using Restatify.Tensegrity.Cloud;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddOpenApi();
-builder.Services.AddSingleton<IHiveClient, HiveClient>();
+builder.Services.AddSingleton<IHiveClient>(_ =>
+{
+    var configured = builder.Configuration["Hive:BaseAddress"];
+    return new HiveClient(!string.IsNullOrWhiteSpace(configured) ? new Uri(configured) : null);
+});
 
 var app = builder.Build();
 

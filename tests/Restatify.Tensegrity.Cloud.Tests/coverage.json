@@ -338,14 +338,34 @@
     },
     "D:\\laragon\\www\\restatify.tech\\api_restatify-tensegrity-ai-cloud\\src\\Restatify.Tensegrity.Cloud.Core\\HiveClient.cs": {
       "Restatify.Tensegrity.Cloud.HiveClient": {
-        "System.Void Restatify.Tensegrity.Cloud.HiveClient::.cctor()": {
+        "System.Void Restatify.Tensegrity.Cloud.HiveClient::.ctor(System.Uri)": {
           "Lines": {
-            "8": 0,
-            "9": 0,
             "10": 0,
-            "11": 0
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
           },
-          "Branches": []
+          "Branches": [
+            {
+              "Line": 12,
+              "Offset": 17,
+              "EndOffset": 19,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 12,
+              "Offset": 17,
+              "EndOffset": 30,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
         }
       }
     },

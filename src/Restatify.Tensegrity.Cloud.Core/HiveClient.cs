@@ -5,10 +5,15 @@ namespace Restatify.Tensegrity.Cloud;
 
 public sealed class HiveClient : IHiveClient
 {
-    private static readonly HttpClient Http = new()
+    private readonly HttpClient _http;
+
+    public HiveClient(Uri? baseAddress = null)
     {
-        BaseAddress = new Uri("http://127.0.0.1:50051")
-    };
+        _http = new HttpClient
+        {
+            BaseAddress = baseAddress ?? new Uri("http://127.0.0.1:50051")
+        };
+    }
 
     // Coverage exception: this method is pure HTTP transport against a running Hive process.
     // It is verified by the smoke tests (tests/smoke), not by unit/component tests.
@@ -25,7 +30,7 @@ public sealed class HiveClient : IHiveClient
             source = "cloud"
         };
 
-        using var response = await Http.PostAsJsonAsync("/submit", payload, cancellationToken);
+        using var response = await _http.PostAsJsonAsync("/submit", payload, cancellationToken);
         response.EnsureSuccessStatusCode();
         using var document = JsonDocument.Parse(await response.Content.ReadAsStringAsync(cancellationToken));
         var root = document.RootElement;
